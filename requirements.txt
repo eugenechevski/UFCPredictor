@@ -3,4 +3,3 @@ pandas
 requests
 click
 scikit-learn
-lxml
